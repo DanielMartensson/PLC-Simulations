@@ -9,6 +9,14 @@ This is my collections of simulation of PLC tools. The tools I have been using a
 
 These software are made as industrial use for control engineering. Codesys V3 to program logic to PLC's hardware and iX Developer to design user interface for HMI tablets and Simumatik 3D for 3D simulations and testing before implementation. I have also been using Siemens LOGO which is a PLC for basic and inexpensive use.
 
+I have been using the PLC IEC-61131-3 language such as 
+
+* Sequential Function Charts (SFC)
+* Ladder Diagram (LD)
+* Function Block Diagram (FBD)
+* Structured Text (ST)
+* Continuous Function Chart (CFC)
+
 # Scara Robot
 This project is named Scara Robot. This robot move the blocks to a specific location depening on which height they have.
 
