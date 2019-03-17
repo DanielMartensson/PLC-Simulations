@@ -3,6 +3,7 @@
 This is my collections of simulation of PLC tools. The tools I have been using are:
 
 * Codesys V3 - Control Logic
+* Codesys V2.3 - CAN-bus
 * iX Developer - Graphical User Interface
 * Simumatik 3D - Simulation
 * Siemens LOGO - Control Logic
@@ -31,6 +32,11 @@ Codesys code:
 iX Developer user interface:
 
 ![a](https://raw.githubusercontent.com/DanielMartensson/PLCsimulations/master/Pictures/ScaraRobot_iX_Developer.png)
+
+# CAN-bus with Joystick - TTController and Codesys 2.3
+This is a project about reading analog signals to a TTController from analog Joystick. Then the TTController will talk to a Sonceboz stepper motor via the J1939 CAN-bus protocol. Yes. it works. I have been using Codesys 2.3 here.
+
+![a](https://raw.githubusercontent.com/DanielMartensson/PLC-Simulations/master/Pictures/TTControl_HY-TTC-30.png)
 
 # Turning Conveyor
 This project is named Turning Conveyor. The aim is to move the blocks to the red cone by using the conveyors.
@@ -123,3 +129,6 @@ This project is named Looping Count Down 5 Seconds. The program counts down and 
 This project is named Calculator LOGO. This program is a calculator for addition, subtraction, division and multiplication by using its keys.
 
 ![a](https://raw.githubusercontent.com/DanielMartensson/PLCsimulations/master/Pictures/Calculator_LOGO.png)
+
+
+
